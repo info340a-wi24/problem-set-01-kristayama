@@ -11,6 +11,7 @@ p {
     line-height: 1.5;
 }
 
-important-list {
+.important-text {
     color: rebeccapurple;
+    font-weight: bold;
 }
